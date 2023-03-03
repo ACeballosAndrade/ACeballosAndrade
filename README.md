@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony Ceballos</h1>
 <h3 align="center">Soy un desarrollador Fullstack, especialmente dedicado al frontend.</h3>
 
-- 👨‍💻 All of my projects are available at [https://mern-stack-gods.herokuapp.com/](https://mern-stack-gods.herokuapp.com/)
+- 👨‍💻 One of my projects are available at [https://mern-stack-gods.herokuapp.com/](https://mern-stack-gods.herokuapp.com/)
 
 - 💬 Ask me about **ReactJS, Javascript, Node y C#**
 
