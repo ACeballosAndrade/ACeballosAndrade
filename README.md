@@ -3,7 +3,7 @@
 
 - 👨‍💻 One of my projects are available at [https://mern-stack-gods.herokuapp.com/](https://mern-stack-gods.herokuapp.com/)
 
-- 💬 Ask me about **ReactJS, Javascript, Node y C#**
+- 💬 Ask me about **ReactJS, Javascript, Node y Java
 
 - 📫 How to reach me **antonyceballos.10@gmail.com**
 
